@@ -6,6 +6,12 @@
   version "3.0.9"
   resolved "https://registry.yarnpkg.com/@hypnosphi/fuse.js/-/fuse.js-3.0.9.tgz#ea99f6121b4a8f065b4c71f85595db2714498807"
 
+"@sambego/storybook-state@^1.0.6":
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/@sambego/storybook-state/-/storybook-state-1.0.6.tgz#ab972f5c1661411aa013a45f75aaca3465a805d3"
+  dependencies:
+    uuid "^3.1.0"
+
 "@storybook/addon-actions@^3.2.17":
   version "3.2.17"
   resolved "https://registry.yarnpkg.com/@storybook/addon-actions/-/addon-actions-3.2.17.tgz#e85d38f743125157fdaf6669708e089bc2008e50"
@@ -3068,9 +3074,9 @@ extsprintf@^1.2.0:
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/extsprintf/-/extsprintf-1.4.0.tgz#e2689f8f356fad62cca65a3a91c5df5f9551692f"
 
-fantastic-components@^2.0.13:
-  version "2.0.13"
-  resolved "https://registry.yarnpkg.com/fantastic-components/-/fantastic-components-2.0.13.tgz#70eaf07f8c38cbe97cfbc0ba4c4b0631d0b84230"
+fantastic-components@^2.0.16:
+  version "2.0.16"
+  resolved "https://registry.yarnpkg.com/fantastic-components/-/fantastic-components-2.0.16.tgz#3e485fcae96527f174ea8906de6c34c076a50e8e"
   dependencies:
     font-awesome "^4.7.0"
     moment "^2.20.1"
